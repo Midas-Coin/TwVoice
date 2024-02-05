@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Thanks. This is a!</Say>
+    <Say voice="woman">Custom Call!</Say>
+    <Say voice="woman">Enjoy!</Say>
+</Response>
